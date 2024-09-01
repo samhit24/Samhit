@@ -1,3 +1,3 @@
 # Samhit
-Thsi is my first git repository
+Thsi is my first git repository.
 Author - Samhit Nayak
